@@ -13,7 +13,7 @@ public class MinimumNumber {
             arr[i]=in.nextInt();
         }
         int call= Min(arr,n);
-        System.out.println("Minimum Element is"+call);
+        System.out.println("Minimum Element is:"+call);
     }
     static int Min(int[]arr,int n)
     {
